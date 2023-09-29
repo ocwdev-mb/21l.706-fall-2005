@@ -1,0 +1,56 @@
+{
+  "term": "Fall",
+  "year": "2005",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Literature",
+      "Comparative Literature"
+    ],
+    [
+      "Fine Arts",
+      "Visual Arts",
+      "Film and Video"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Criticism"
+    ],
+    [
+      "Fine Arts",
+      "Media Studies"
+    ]
+  ],
+  "legacy_uid": "f768ecd2-9907-d670-55ce-b1fa7fa3f393",
+  "instructors": {
+    "content": [
+      "574de813-0133-dfd1-1f1f-74ababe0ad61"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "aafc0e0c-3cba-130c-b59b-83580e27cc06",
+    "website": "21l-706-studies-in-film-fall-2005"
+  },
+  "course_title": "Studies in Film",
+  "course_description": "This course investigates relationships between two media, film and literature, studying works linked across the two media by genre, topic, and style. It aims to sharpen appreciation of major works of cinema and of literary narrative. The course explores how artworks challenge and cross cultural, political and aesthetic boundaries. It includes some attention to theory of narrative. Films to be studied include works by Akira Kurosawa, John Ford, Francis Ford Coppolla, Clint Eastwood, Orson Welles, Billy Wilder, and Federico Fellini, among others. Literary works include texts by Aeschylus, Sophocles, Shakespeare, Cervantes, Honor\u00e9 de Balzac, Henry James and F. Scott Fitzgerald.\n",
+  "department_numbers": [
+    "21L"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21L.706",
+  "course_image_thumbnail": {
+    "content": "d3757ae8-2eaa-6d53-0819-b3daaaa7b775",
+    "website": "21l-706-studies-in-film-fall-2005"
+  },
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "site_uid": "75ff45a2-35f7-49e5-a22c-cc7f0d4b9f45",
+  "site_short_id": "21l.706-fall-2005",
+  "title": "Course Metadata"
+}
